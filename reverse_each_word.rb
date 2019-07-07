@@ -6,5 +6,5 @@ def reverse_each_word(sentence)
     reverse_sentence.unshift(character)
   end
   
-  return reverse_sentence.join('')
+  return reverse_sentence.join(''
 end
