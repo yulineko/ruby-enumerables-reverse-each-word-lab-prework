@@ -3,5 +3,5 @@ def reverse_each_word(sentence)
  reverse_array = []
  
  array.each do |sentence|
-   
+   reverse_array << 
 end
